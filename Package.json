@@ -1,0 +1,12 @@
+{
+  "name": "msaidizi-whatsapp-bot",
+  "version": "1.0.0",
+  "main": "msaidizi-whatsapp-bot.js",
+  "scripts": {
+    "start": "node msaidizi-whatsapp-bot.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.6.0"
+  }
+}
