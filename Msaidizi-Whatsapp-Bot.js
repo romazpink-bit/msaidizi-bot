@@ -10,7 +10,7 @@ app.use(express.json());
 
 // === WEKA HAPA DETAILS ZAKO ===
 const VERIFY_TOKEN = 'msaidizi123'; // hii ndio utaweka kwenye Meta pia
-const ACCESS_TOKEN = 'EABBIx...WEKA TOKEN YAKO MPYA HAPA'; // Token uloi-generate
+const ACCESS_TOKEN = 'EABBIx88nyq0BSZBcPr1Re50dyyNaU4tfoUVMeqAztpi78qHAZBVidP9ZAeW37wWYav7umt2WZCxDpOZCeAaZCx5OvnWHZCayjpaHBCE3Yyc64ZALkt86GxwfSVsaOtq4lubAzDotgLhWPh9qFVZBuuEluy2keP7p8NPZBAomwaYX4OAR6ikpdf6kPpFntuU2ZCBnDzgRRpFeoD0VuwRlQ8MymJrcF3mltKq93GqgYZBFhklpX6Uooopf2FPKfLR2SjyfgXF7t8aLZCfutvhBQqGtcPPiX'
 const PHONE_NUMBER_ID = '1296392916901346';
 const GRAPH_API_VERSION = 'v25.0';
 
